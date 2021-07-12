@@ -1,0 +1,14 @@
+E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\BMS-AutomationTest.exe.config
+E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\BMS-AutomationTest.exe
+E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\BMS-AutomationTest.pdb
+E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\nunit.framework.dll
+E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\WebDriver.dll
+E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\WebDriver.Support.dll
+E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\nunit.framework.xml
+E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\WebDriver.xml
+E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\WebDriver.Support.xml
+E:\cts training\zeeb\BMS-AutomationTest\obj\Debug\BMS-AutomationTest.csprojAssemblyReference.cache
+E:\cts training\zeeb\BMS-AutomationTest\obj\Debug\BMS-AutomationTest.csproj.CoreCompileInputs.cache
+E:\cts training\zeeb\BMS-AutomationTest\obj\Debug\BMS-AutomationTest.csproj.CopyComplete
+E:\cts training\zeeb\BMS-AutomationTest\obj\Debug\BMS-AutomationTest.exe
+E:\cts training\zeeb\BMS-AutomationTest\obj\Debug\BMS-AutomationTest.pdb

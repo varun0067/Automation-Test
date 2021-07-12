@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="3" result="Passed" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="6" engine-version="3.12.0.0" clr-version="4.0.30319.42000" start-time="2021-07-05 01:49:13Z" end-time="2021-07-05 01:50:25Z" duration="72.427355">
+  <command-line><![CDATA[nunit3-console.exe  "E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\BMS-AutomationTest.exe"]]></command-line>
+  <test-suite type="Assembly" id="1-1004" name="BMS-AutomationTest.exe" fullname="E:\cts training\zeeb\BMS-AutomationTest\bin\Debug\BMS-AutomationTest.exe" runstate="Runnable" testcasecount="3" result="Passed" start-time="2021-07-05T01:49:14.3298286Z" end-time="2021-07-05T01:50:25.7846242Z" duration="71.454480" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+    <environment framework-version="3.13.2.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.19042.0" platform="Win32NT" cwd="E:\cts training\zeeb\BMS-AutomationTest\packages\NUnit.ConsoleRunner.3.12.0\tools" machine-name="DESKTOP-S2AQE2I" user="user" user-domain="DESKTOP-S2AQE2I" culture="en-IN" uiculture="en-US" os-architecture="x86" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="E:\cts training\zeeb\BMS-AutomationTest\packages\NUnit.ConsoleRunner.3.12.0\tools" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.7.2" />
+      <setting name="ImageRequiresX86" value="True" />
+      <setting name="RunAsX86" value="True" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="TargetRuntimeFramework" value="net-4.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="30456" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="1-1005" name="BMS_AutomationTest" fullname="BMS_AutomationTest" runstate="Runnable" testcasecount="3" result="Passed" start-time="2021-07-05T01:49:14.3458071Z" end-time="2021-07-05T01:50:25.7846242Z" duration="71.439217" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+      <test-suite type="TestSuite" id="1-1006" name="Tests" fullname="BMS_AutomationTest.Tests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2021-07-05T01:49:14.3458071Z" end-time="2021-07-05T01:50:25.7846242Z" duration="71.438914" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+        <test-suite type="TestFixture" id="1-1000" name="AutomationTest" fullname="BMS_AutomationTest.Tests.AutomationTest" classname="BMS_AutomationTest.Tests.AutomationTest" runstate="Runnable" testcasecount="3" result="Passed" start-time="2021-07-05T01:49:14.3477568Z" end-time="2021-07-05T01:50:25.7846242Z" duration="71.436681" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+          <test-case id="1-1001" name="ApplyRegisterAndLoginTest" fullname="BMS_AutomationTest.Tests.AutomationTest.ApplyRegisterAndLoginTest" methodname="ApplyRegisterAndLoginTest" classname="BMS_AutomationTest.Tests.AutomationTest" runstate="Runnable" seed="256103001" result="Passed" start-time="2021-07-05T01:49:14.3507923Z" end-time="2021-07-05T01:49:44.0069366Z" duration="29.656656" asserts="2" />
+          <test-case id="1-1003" name="EducationLoanApplyTest" fullname="BMS_AutomationTest.Tests.AutomationTest.EducationLoanApplyTest" methodname="EducationLoanApplyTest" classname="BMS_AutomationTest.Tests.AutomationTest" runstate="Runnable" seed="366885930" result="Passed" start-time="2021-07-05T01:49:44.0119256Z" end-time="2021-07-05T01:50:04.9561536Z" duration="20.944844" asserts="2" />
+          <test-case id="1-1002" name="PersonalLoanApplyTest" fullname="BMS_AutomationTest.Tests.AutomationTest.PersonalLoanApplyTest" methodname="PersonalLoanApplyTest" classname="BMS_AutomationTest.Tests.AutomationTest" runstate="Runnable" seed="515694637" result="Passed" start-time="2021-07-05T01:50:04.9561536Z" end-time="2021-07-05T01:50:25.7826729Z" duration="20.826437" asserts="2" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
